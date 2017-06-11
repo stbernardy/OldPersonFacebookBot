@@ -13,7 +13,7 @@ def shittyBot():
    "THIS IS URE GRANDMA SPEAKING",
    "THIS IS NOT FOR KIDS, INNAPROPRIATE",
    "Looking great dear, your mom has been hospitalized it is not good your grandman",
-   ""]
+   ]
 
 #Bot OAuth  
 def bot():
